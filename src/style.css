@@ -1,0 +1,130 @@
+/* ⬛ Side Navbar + Welcome Layout */
+
+body {
+    margin: 0;
+    padding: 0;
+    background: #0d1117;
+    font-family: 'Segoe UI', sans-serif;
+    color: #dbe9ff;
+  }
+  
+  .dashboard {
+    display: flex;
+    height: 100vh;
+    overflow: hidden;
+  }
+  
+  .sidebar {
+    width: 250px;
+    background-color: #1a1f2e;
+    padding: 2rem 1rem;
+    border-right: 2px solid #2e3b55;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .logo {
+    font-size: 1.5rem;
+    color: #7bb1ff;
+    margin-bottom: 2rem;
+    text-align: center;
+  }
+  
+  .nav-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .nav-list li {
+    padding: 0.75rem 1rem;
+    margin-bottom: 0.5rem;
+    background: #202635;
+    border-radius: 8px;
+    color: #dbe9ff;
+    cursor: pointer;
+    transition: background 0.2s ease;
+  }
+  
+  .nav-list li:hover {
+    background: #304366;
+  }
+  
+  .main-content {
+    flex: 1;
+    padding: 2rem;
+    overflow-y: auto;
+  }
+  
+  .welcome {
+    text-align: center;
+    margin-top: 5rem;
+  }
+  
+  .welcome h1 {
+    font-size: 2.5rem;
+    color: #7bb1ff;
+  }
+  
+  .welcome p {
+    font-size: 1.2rem;
+    color: #bfcde0;
+    margin-top: 1rem;
+  }
+  
+  .scp-detail {
+    max-width: 800px;
+    margin: auto;
+  }
+  
+  .scp-detail-image {
+    width: 100%;
+    max-height: 350px;
+    object-fit: cover;
+    border-radius: 12px;
+    margin-bottom: 1rem;
+  }
+  
+  button {
+    background-color: #7bb1ff;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 6px;
+    color: #0e101c;
+    font-weight: bold;
+    cursor: pointer;
+    margin-bottom: 1rem;
+    transition: background-color 0.2s ease;
+  }
+  
+  button:hover {
+    background-color: #a9cbff;
+  }
+  
+  @media (max-width: 768px) {
+    .dashboard {
+      flex-direction: column;
+    }
+  
+    .sidebar {
+      width: 100%;
+      flex-direction: row;
+      overflow-x: auto;
+    }
+  
+    .nav-list {
+      display: flex;
+      gap: 0.5rem;
+      flex-wrap: nowrap;
+    }
+  
+    .nav-list li {
+      min-width: 120px;
+      white-space: nowrap;
+    }
+  
+    .main-content {
+      padding: 1rem;
+    }
+  }
+  

@@ -2,37 +2,31 @@
     {
       "model": "Item #: SCP-002",
       "tagline": "Object Class: Euclid",
-      "content": "Special Containment Procedures:: SCP-002 is to remain connected to a suitable power supply at all times to keep it in a recharging mode. In the event of a power failure, emergency protocols must be enacted immediately.\n\nDescription:: SCP-002 resembles a large fleshy growth that houses what appears to be a furnished interior apartment. The furniture inside, upon inspection, is made of organic human tissue such as bone and hair. SCP-002 absorbs people who enter it, later converting them into new 'furnishings' within its room. The object fell from orbit and was discovered in Portugal. The origin of the structure and the mechanism by which it absorbs humans are still unknown."
-      ,
+      "content": "Special Containment Procedures:: SCP-002 is to remain connected to a suitable power supply at all times, to keep it in what appears to be a recharging mode...\n\nDescription:: SCP-002 resembles a tumorous, fleshy growth with a volume of roughly 60 m\u00b3 (or 2000 ft\u00b3)...",
       "image": "images/2.jpg"
     },
     {
       "model": "Item #: SCP-003",
       "tagline": "Object Class: Euclid",
-      "content": "Special Containment Procedures:: SCP-003-1 must be kept at high temperatures and away from all complex life forms.\n\nDescription:: SCP-003 consists of two components. SCP-003-1 is a biological motherboard made of chitin and keratin, while SCP-003-2 is a runed stone slab that appears to control SCP-003-1. When the temperature drops below 35°C, SCP-003-1 begins to grow, converting surrounding materials—organic or not—into new growth. If contact with living organisms is made, it adapts and slows its growth to study and mimic them. SCP-003 may be sentient and has demonstrated the ability to restructure itself into humanoid forms. SCP-003-2 counters the growth using radiation, suggesting it was designed as a containment or control mechanism."
-      ,
+      "content": "Special Containment Procedures:: SCP-003 is to be maintained at a constant temperature of no less than 35\u00b0C and ideally kept above 100\u00b0C...\n\nDescription:: SCP-003 consists of two related components of separate origin, referred to as SCP-003-1 and SCP-003-2...",
       "image": "images/3.jpg"
     },
     {
       "model": "Item #: SCP-004",
       "tagline": "Object Class: Euclid",
-      "content": "Special Containment Procedures:: The SCP-004 keys and door are to be secured at Site-62 under heavy surveillance. Unauthorized access is prohibited.\n\nDescription:: SCP-004 consists of a set of 12 keys and a massive wooden door, SCP-004-1. Each key unlocks the door, but only two keys are considered 'safe'. The remaining keys transport users into different dimensions or realities, many of which have fatal properties such as time dilation, spatial anomalies, or violent dismemberment. One of the keys leads to a vast extradimensional storage facility, now designated Site-62. SCP-004 has also demonstrated temporal displacement abilities, with some test subjects or their remains reappearing decades later."
-      ,
+      "content": "Special Containment Procedures:: When handling items SCP-004-2 through SCP-004-13, proper procedure is vital...\n\nDescription:: SCP-004 consists of an old wooden barn door (SCP-004-1) and a set of twelve rusted steel keys...",
       "image": "images/4.jpg"
     },
     {
       "model": "Item #: SCP-005",
       "tagline": "Object Class: Safe",
-      "content": "Special Containment Procedures:: SCP-005 is stored in a secure locker and may only be accessed with approval from Level 4 personnel.\n\nDescription:: SCP-005 is an ornate key capable of unlocking any lock, mechanical or electronic. While it seems simple, the implications of its abilities are significant—posing a security risk to any secure facility. Interestingly, if a person does not recognize an object as a lock, SCP-005 often fails to work, suggesting some form of cognitive sensitivity or sentience. The Foundation continues to test these limits. It is forbidden to use SCP-005 for mundane tasks like unlocking vending machines or personal lockers."
-      ,
+      "content": "Special Containment Procedures:: SCP-005 poses no immediate risk in any direct sense...\n\nDescription:: SCP-005 resembles an ornate key, displaying the characteristics of a typical mass produced key used in the 1920s...",
       "image": "images/5.jpg"
     },
     {
       "model": "Item #: SCP-006",
       "tagline": "Object Class: Safe",
-      "content": "Special Containment Procedures:: Secrecy is the top priority regarding SCP-006. The spring must remain hidden under a chemical plant cover story. Personnel who interact with it are misinformed about its true effects.\n\nDescription:: SCP-006 is a natural spring located in Russia that produces mineral water with powerful healing and regenerative properties. It enhances the immune system, repairs DNA, and even reverses aging effects in test subjects. However, due to the potential political and societal impact of such a discovery, it is kept secret from the world. Any personnel who make direct contact are terminated after sufficient study to preserve secrecy. Research suggests that the water’s unique composition may hold secrets to longevity and human enhancement."
-      ,
+      "content": "Special Containment Procedures:: A certain level of secrecy is necessary regarding the object's existence and properties...\n\nDescription:: SCP-006 is a very small spring located 60 km west of Astrakhan. The liquid emitted has the unusual property of \"health\"...",
       "image": "images/6.webp"
     }
   ]
-  
